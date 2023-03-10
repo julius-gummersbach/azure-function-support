@@ -1,0 +1,17 @@
+.idea/
+/terraform/.terraform.lock.hcl
+/terraform/function-app.zip
+/terraform/go.ps1
+/terraform/terraform.tfstate*
+/terraform/.terraform.tfstate*
+/terraform/.terraform
+functionApp/__pycache__/
+/functionApp/__blobstorage__/
+/functionApp/__queuestorage__/
+/functionApp/__azurite_db_blob__.json
+/functionApp/__azurite_db_blob_extent__.json
+/functionApp/__azurite_db_queue__.json
+/functionApp/__azurite_db_queue_extent__.json
+/functionApp/__azurite_db_table__.json
+/functionApp/getting_started.md
+/functionApp/.venv/

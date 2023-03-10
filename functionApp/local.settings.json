@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME"            : "python",
+    "AzureWebJobsStorage"                 : "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags"            : "EnableWorkerIndexing",
+    "EVENTHUB_NAME"                       : "<enter values from terraform output here>",
+    "DATABASE_NAME"                       : "<enter values from terraform output here>",
+    "COLLECTION_NAME"                     : "<enter values from terraform output here>",
+    "COSMOSDB_CONNECTION_STRING"          : "<enter values from terraform output here>",
+    "EVENTHUB_NAMESPACE_CONNECTION_STRING": "<enter values from terraform output here>"
+  }
+}
